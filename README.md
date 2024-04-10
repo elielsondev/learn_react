@@ -12,4 +12,11 @@
 },
 ```
 
-   
+## Configurando o Git:
+* Iniciar um repositório git com o comando: `git init` ;
+* Criar o primeiro commit com os comandos: `git add` . e
+`git commit -m "Initial commit"` ;
+* Configurar o repositório remoto com o comando
+`git remote add origin <endereço-do-seu-projeto>`;
+* Sincronizar o repositório local com o repositório remoto por meio do comando
+`git push origin main`
